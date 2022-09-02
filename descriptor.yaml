@@ -2,4 +2,4 @@ code: example-bundle
 description: This is an example of an Entando Bundle
 components:
   widgets:
-    - widgets/example-widget.yaml
+    - bundle/widgets/example-widget.yaml
